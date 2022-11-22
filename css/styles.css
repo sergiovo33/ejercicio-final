@@ -1,0 +1,194 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background: white;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+nav{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+
+.menu1{
+    display: flex;
+    padding-top: 1em;
+    margin-left: -15em;
+    margin-right: 4em;
+    list-style: none;
+   
+}
+
+.menu{
+    font-weight: bold;
+    font-size: medium;
+
+}
+
+
+.menu2{
+    
+        display: flex;
+        align-items: center;
+        justify-content: space-between;    
+        margin-right: 3em;
+        list-style: none;
+        font-size: 11pt;
+        
+    
+}
+
+
+.botones{
+    margin-right: 45px;
+}
+
+.boton_menu{
+    text-decoration: none;
+    color: black;
+    padding-left: 5vh;
+
+}
+
+
+
+.boton1, .boton2{
+    text-decoration: none;
+    padding-bottom: 1em;
+
+}
+
+.iniciar{
+    border: 3px solid black;
+    color: black;
+    border-radius: 15em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.registrate{
+    background-color: black;
+    color: white;
+    border-radius: 15em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+
+main{
+    padding-bottom: 9vh;
+}
+
+#caja1{
+    background-color: rgb(1, 98, 65);
+    color: white;
+    text-align: center;
+    margin-left: 3em;
+    margin-right: 3em;
+    padding: 2em;
+}
+
+#aprende{
+    color: white;
+}
+
+#aprende :hover{
+    color: black;
+}
+
+#caja2{
+    background-color: rgb(221, 0, 48);
+    color: white;
+    margin-left: 3em;
+    margin-right: 3em;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+
+
+}
+
+#estructura1{
+    text-align: center;
+    margin-right: 140px;
+
+}
+
+#caja3{
+    background-color: rgb(221, 0, 48);
+    color: white;
+    margin-left: 3em;
+    margin-right: 3em;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+}
+
+.titulos{
+    font-size: 4.5vh;
+    letter-spacing: .2em;
+    font-family: sans-serif;
+   
+}
+
+
+.parrafos{
+    font-size: 2vh;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+.boton_pedido{
+    color: white;
+    border: 2px solid white;
+    border-radius: 15em;
+    text-decoration: none;
+    border-radius: 15em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+
+hr{
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+
+
+main{
+    padding-bottom: 5vh;
+}
+
+
+footer{
+    margin-left: 3em;
+    margin-right: 3em;
+    padding-top: 1em;
+}
+
+.iconos{
+    margin-left: 2em;
+}
+
+#pie-de-pag{
+    margin-left: 2em;
+}
